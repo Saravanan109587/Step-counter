@@ -1,0 +1,105 @@
+ [DEBUG] 2019-02-27 11:01:08,415 [14] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:01:08,584 [14] MAuthAPI.Controllers.AuthorizationController - GetStationList - Entered intoGet Stattion List
+ [DEBUG] 2019-02-27 11:01:41,588 [14] MAuthAPI.CommonExceptionHandler - MoveNext - Exeception path is D:\OProjects\WildAbout\Release\Service\ErrorLog
+ [ERROR] 2019-02-27 11:01:41,590 [14] MAuthAPI.CommonExceptionHandler - MoveNext - Exeception   is A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ [DEBUG] 2019-02-27 11:21:18,948 [47] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:21:18,958 [51] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:21:18,959 [51] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 11:21:39,501 [36] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:21:39,554 [51] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:21:42,652 [37] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:21:42,669 [47] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:21:53,870 [48] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:21:53,875 [37] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:21:54,070 [37] MAuthAPI.Controllers.AuthorizationController - Validate - Entered into validate with code 12444
+ [DEBUG] 2019-02-27 11:22:46,296 [51] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:22:46,305 [43] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:22:46,317 [37] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:22:46,319 [50] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:22:46,320 [50] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 11:22:54,176 [43] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:22:54,197 [37] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:22:56,791 [36] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:22:56,797 [49] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 11:22:56,798 [49] MAuthAPI.Controllers.AuthorizationController - Validate - Entered into validate with code weewf
+ [DEBUG] 2019-02-27 11:23:02,934 [49] MAuthAPI.Controllers.AuthorizationController - Validate - Status Invalid
+ [DEBUG] 2019-02-27 15:30:33,593 [9] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:33,674 [19] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:36,485 [25] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:36,513 [26] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:40,799 [26] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:40,834 [27] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:41,579 [8] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:41,598 [19] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:41,625 [19] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:30:48,613 [27] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:48,632 [9] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:53,648 [5] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:53,655 [8] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:30:53,813 [8] MAuthAPI.Controllers.AuthorizationController - Validate - Entered into validate with code wqf
+ [DEBUG] 2019-02-27 15:30:54,750 [8] MAuthAPI.Controllers.AuthorizationController - Validate - Status Invalid
+ [DEBUG] 2019-02-27 15:31:35,660 [9] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:31:35,668 [28] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:31:35,668 [28] MAuthAPI.Controllers.AuthorizationController - Validate - Entered into validate with code wqf
+ [DEBUG] 2019-02-27 15:31:36,546 [28] MAuthAPI.Controllers.AuthorizationController - Validate - Status Invalid
+ [DEBUG] 2019-02-27 15:31:39,409 [24] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:31:39,432 [8] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:32:37,582 [8] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:32:37,611 [16] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:32:39,669 [5] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:32:39,698 [28] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:36:49,824 [28] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:36:49,873 [19] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:36:49,874 [19] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:37:52,527 [5] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:37:52,581 [29] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:37:52,582 [29] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:39:09,073 [27] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:39:09,108 [30] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:39:09,109 [30] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:42:21,372 [24] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:42:25,777 [31] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:42:25,798 [19] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:42:25,803 [30] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:42:25,805 [30] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:42:46,422 [8] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:42:46,446 [33] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:44:56,382 [27] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:44:56,461 [8] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:44:58,136 [24] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:44:58,148 [28] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:44:58,149 [28] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:49:43,271 [24] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:49:45,397 [27] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:49:45,408 [28] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:49:45,416 [34] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:49:45,417 [34] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:50:54,686 [36] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:50:54,698 [19] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:50:54,708 [34] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:50:54,711 [24] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:50:54,711 [24] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:53:36,998 [40] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:53:37,011 [38] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:53:37,025 [27] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:53:37,029 [27] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:53:37,029 [27] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 15:54:09,874 [24] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:54:09,884 [39] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:54:09,896 [38] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:54:09,898 [28] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 15:54:09,899 [28] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 16:02:17,743 [37] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:02:17,760 [28] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:02:17,760 [28] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 16:03:15,288 [37] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:03:15,298 [32] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:03:15,314 [45] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:03:15,317 [40] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:03:15,317 [40] MAuthAPI.Controllers.AuthorizationController - GetAttractions - Entered into Get Attractions
+ [DEBUG] 2019-02-27 16:03:35,546 [45] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:03:35,553 [37] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:03:35,553 [37] MAuthAPI.Controllers.AuthorizationController - Validate - Entered into validate with code asdasd
+ [DEBUG] 2019-02-27 16:03:36,507 [37] MAuthAPI.Controllers.AuthorizationController - Validate - Status Invalid
+ [DEBUG] 2019-02-27 16:03:52,612 [32] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
+ [DEBUG] 2019-02-27 16:03:52,665 [28] MAuthAPI.Controllers.AuthorizationController - .ctor - Entered into mAUth controller
